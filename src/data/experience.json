@@ -1,0 +1,26 @@
+[
+  {
+    "employer": "Shibboleth Group",
+    "jobTitle": "Freelance Web Developer",
+    "startDate": "July 2022",
+    "endDate": "Oct 2022",
+    "description": "Designed and developed the website from scratch for Shibboleth-Group.",
+    "imgName": "shibboleth"
+  },
+  {
+    "employer": "Volta Belting Technologies",
+    "jobTitle": "Line Operator",
+    "startDate": "Dec 2018",
+    "endDate": "Nov 2019",
+    "description": "Experienced in monitoring equipment, detecting issues, and executing necessary adjustments. Skilled in maintaining high-quality standards while adhering to safety protocols.",
+    "imgName": "volta"
+  },
+  {
+    "employer": "Israel Defence Force",
+    "jobTitle": "MLRS Fire Direction Specialist",
+    "startDate": "Mar 2016",
+    "endDate": "Nov 2018",
+    "description": "Experienced in MLRS operations, adept at coordinating rocket launches. Skilled in fire direction systems, secure communication, and logistics.",
+    "imgName": "idf"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "org": "ITQ Inc",
+    "jobTitle": "Cisco Certified Network Professional",
+    "startDate": "Oct 2021",
+    "endDate": "Dec 2021",
+    "description": "CCNP course graduate with 290 hours hands-on experience in advanced technologies such as BGP, OSPF, DMVPN and more...",
+    "imgName": "itq"
+  },
+  {
+    "org": "Netcraft Academy",
+    "jobTitle": "Fullstack Web Development",
+    "startDate": "Oct 2020",
+    "endDate": "May 2021",
+    "description": "graduated from a comprehensive Fullstack Web Development course, equipped with proficiency in key technologies such as React and Node.js. Skilled in crafting dynamic and responsive user interfaces using React and building server-side applications with Node.js.",
+    "imgName": "netcraft"
+  }
+]

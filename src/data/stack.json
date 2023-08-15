@@ -1,0 +1,13 @@
+[
+  { "text": "React", "highlight": true },
+  { "text": "JavaScript", "highlight": false },
+  { "text": "TypeScript", "highlight": true },
+  { "text": "NodeJs", "highlight": false },
+  { "text": "CSS", "highlight": false },
+  { "text": "HTML", "highlight": false },
+  { "text": "SASS", "highlight": true },
+  { "text": "Git", "highlight": false },
+  { "text": "MongoDB", "highlight": false },
+  { "text": "ThunderClient", "highlight": false },
+  { "text": "Styled-Component", "highlight": true }
+]
